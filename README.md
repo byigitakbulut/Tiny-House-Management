@@ -3,7 +3,7 @@
 Tiny House Management, kullanıcıların tiny house (küçük ev) ilanlarını yönetebildiği, rezervasyon yapabildiği, ev sahipleri ve kiracılar için ayrı paneller sunan, çok katmanlı mimari ile geliştirilmiş bir rezervasyon ve yönetim sistemidir.
 Proje, C#, .NET Windows Forms, ADO.NET ve MSSQL kullanılarak geliştirilmiştir.
 
-## Özellikler
+## ÖZELLİKLER
 
 * **Çok Katmanlı Mimari:**
   Proje; Data, Business ve UI olmak üzere üç ana katmandan oluşur.
@@ -88,3 +88,4 @@ Manisa Celal Bayar Üniversitesi, Yazılım Mühendisliği 2. sınıf öğrencil
 Tiny House Management projesi, Veritabanı Sistemlerine Giriş dersi dönem projesi olarak geliştirilmiştir ve gerçek dünya ihtiyaçlarına uygun olarak tasarlanmıştır.
 
 Proje sahibi: [Büşra Tekdemir](https://github.com/busratekdemir)
+
