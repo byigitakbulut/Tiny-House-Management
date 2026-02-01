@@ -3,7 +3,9 @@
 Tiny House Management, kullanıcıların tiny house (küçük ev) ilanlarını yönetebildiği, rezervasyon yapabildiği, ev sahipleri ve kiracılar için ayrı paneller sunan, çok katmanlı mimari ile geliştirilmiş bir rezervasyon ve yönetim sistemidir.
 Proje, C#, .NET Windows Forms, ADO.NET ve MSSQL kullanılarak geliştirilmiştir.
 
-## ÖZELLİKLER
+---
+
+## Özellikler
 
 * **Çok Katmanlı Mimari:**
   Proje; Data, Business ve UI olmak üzere üç ana katmandan oluşur.
@@ -26,6 +28,8 @@ Proje, C#, .NET Windows Forms, ADO.NET ve MSSQL kullanılarak geliştirilmiştir
 * **Güvenli Giriş ve Kayıt:**
   Parolalar güvenli şekilde hash’lenerek saklanır.
 
+---
+
 ## Kullanılan Teknolojiler
 
 * C# (.NET 6.0/8.0)
@@ -35,6 +39,8 @@ Proje, C#, .NET Windows Forms, ADO.NET ve MSSQL kullanılarak geliştirilmiştir
 * Katmanlı Mimari
 * LiveCharts (İstatistikler için)
 * Git ve GitHub (Versiyon kontrolü)
+
+---
 
 ## Kurulum ve Çalıştırma
 
@@ -56,16 +62,13 @@ Proje, C#, .NET Windows Forms, ADO.NET ve MSSQL kullanılarak geliştirilmiştir
 
 5. **Projeyi build edip çalıştırın.**
 
-## Ekran Görüntüleri
-
-> Buraya birkaç ekran görüntüsü ekleyebilirsiniz.
-> `![Admin Panel](screenshots/admin_panel.png)`
-> `![Ev Sahibi Paneli](screenshots/owner_panel.png)`
-> `![Kiracı Paneli](screenshots/tenant_panel.png)`
+---
 
 ## Katkıda Bulunmak
 
 Pull request’ler ve issue’lar için her zaman açıktır! Hataları veya önerileri GitHub üzerinden paylaşabilirsiniz.
+
+---
 
 ## Lisans
 
@@ -75,17 +78,10 @@ Bu proje MIT lisansı ile lisanslanmıştır.
 
 ## Proje Ekibi ve Hakkında
 
-**Proje Ekibi:**
+### Proje Ekibi:
 
-* Büşra Tekdemir
 * Hasan Yiğit Akbulut
 * Ozan Korkmaz
-
-Manisa Celal Bayar Üniversitesi, Yazılım Mühendisliği 2. sınıf öğrencileriyiz.
-
-**Ders Adı:** Veritabanı Sistemlerine Giriş
+* Büşra Tekdemir
 
 Tiny House Management projesi, Veritabanı Sistemlerine Giriş dersi dönem projesi olarak geliştirilmiştir ve gerçek dünya ihtiyaçlarına uygun olarak tasarlanmıştır.
-
-Proje sahibi: [Büşra Tekdemir](https://github.com/busratekdemir)
-
