@@ -47,7 +47,7 @@ Proje, C#, .NET Windows Forms, ADO.NET ve MSSQL kullanılarak geliştirilmiştir
 1. **Projeyi klonlayın:**
 
    ```bash
-   git clone https://github.com/busratekdemir/Tiny-House-Management.git
+   git clone https://github.com/byigitakbulut/Tiny-House-Management.git
    ```
 
 2. **Visual Studio ile açın.**
